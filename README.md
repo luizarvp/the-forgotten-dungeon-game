@@ -91,7 +91,7 @@ Integrantes do grupo:
 * Yago Padrão Casatle Giusti Auras
 * Diogo Gualberto Martins Prudencio
 * Gabriel Lopes de Sousa Ramos
-* Kauã Vitor Marques
-* Yam
+* Kauã Vitor Marques Rayol
+* Yam Caio Fraga Contarato
 
 ---
